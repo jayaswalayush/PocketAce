@@ -1,0 +1,15 @@
+asgiref==3.2.3
+certifi==2019.11.28
+chardet==3.0.4
+Django==3.0.2
+django-js-asset==1.2.2
+django-mptt==0.10.0
+django-request-logging==0.7.0
+django-storages==1.7.1
+djangorestframework==3.11.0
+idna==2.8
+mysqlclient==1.4.2.post1
+pytz==2019.3
+requests==2.21.0
+sqlparse==0.3.0
+urllib3==1.24.3
